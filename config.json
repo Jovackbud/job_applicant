@@ -1,0 +1,7 @@
+{
+  "keywords": ["AI Engineer", "ML Engineer", "AI Developer", "Artificial Intelligence", "AI"],
+  "location_preferences": {
+    "abuja": ["onsite", "remote", "hybrid"],
+    "other": ["remote"]
+  }
+}
